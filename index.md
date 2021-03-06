@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 001-Yyed 
 
-You can use the [editor on GitHub](https://github.com/safocc/safocc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Esta semana temenos a Yyed une productor belga para hablar un poco sobre su primer EP Two Reflections in Paralell. En esta entrevista discutimos sobre su EP, la relación entre matemáticas y música, el origen de las ideas y la creativad. Al final también nos dejó tres recomendaciones buenísimas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="001_yyed.pdf">Descarga la entrevista aquí</a>
 
-### Markdown
+Encunetra a yyed en:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+instagram @_yyed
 
-```markdown
-Syntax highlighted code block
+twitter @yyyyyyyed
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/safocc/safocc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Siguenos en twitter @safocc
